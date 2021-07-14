@@ -1,0 +1,145 @@
+html {
+    box-sizing: border-box;
+    min-height: 100%;
+}
+
+.logo{
+  position: absolute;
+  top: 10px;
+  left: 30px;
+  height: 139.01px;
+  width: 320px;
+
+}
+
+.menu{
+  display: flex;
+  list-style-type: none;
+  grid-gap: 50px;
+  margin-left: 30px;
+  position: absolute;
+  top:  42px;
+  left: 350px;
+
+}
+
+.menu a{
+  font-size: 2rem;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'DM Sans', sans-serif;
+  color: black;
+  font-weight: 900;
+  color: black;
+  transition: color 0.3s ease-out;
+
+
+}
+
+.menu a:hover{
+  color: white;
+  text-decoration: underline;
+
+}
+
+.stock1{
+  max-width: 1312px;
+  margin: -10px;
+
+}
+
+.EC{
+  box-sizing: border-box;
+  width: 750px;
+  font-size: 40px;
+  text-align:justify;
+  text-decoration: none;
+  font-family: 'DM Sans', sans-serif;
+  color: white;
+  position: relative;
+  top: -600px;
+  left: 230px;
+
+}
+
+.serv{
+  color: #b52a87;
+  transition: color 0.5s ease-out;
+}
+
+.serv:hover{
+  color: white;
+}
+
+.expe {
+  color: #2cb6fe;
+  transition: color 0.5s ease-out;
+}
+
+.expe:hover{
+  color: white;
+}
+
+.pnl{
+  color: white;
+  transition: color 0.5s ease-out;
+}
+
+.pnl:hover{
+  color: #b52a87;
+}
+
+.bll{
+  color: white;
+  transition: color 0.5s ease-out;
+}
+
+.bll:hover{
+  color: #2cb6fe;
+}
+
+#whiteLayer{
+  position: fixed;
+  position: relative;
+  top: -178px;
+  left: -10px;
+  width: 1312px;
+  height: 875px;
+  background: #ececec;
+}
+
+.mid-text{
+  box-sizing: border-box;
+  width: 900px;
+  font-size: 40px;
+  text-align: justify;
+  text-decoration: none;
+  font-family: 'DM Sans', sans-serif;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: -950px;
+}
+
+.stock2{
+  max-width: 1312px;
+  margin-left: -10px;
+  position: relative;
+  top: -800px;
+}
+
+.NP{
+  box-sizing: border-box;
+  width: 100px;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: justify;
+  text-decoration: none;
+  font-family: 'DM Sans', sans-serif;
+  color: black;
+  margin-left: 100px;
+  position: relative;
+  top: -1000px;
+  color: white;
+}
