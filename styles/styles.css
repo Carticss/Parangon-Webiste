@@ -24,7 +24,7 @@ html {
 }
 
 .menu a{
-  font-size: 2rem;
+  font-size: 2.5vw;
   text-align: center;
   text-decoration: none;
   font-family: 'DM Sans', sans-serif;
@@ -52,7 +52,7 @@ html {
 .EC{
   box-sizing: border-box;
   width: 65%;
-  font-size: 40px;
+  font-size: 3vw;
   text-align:justify;
   text-decoration: none;
   font-family: 'DM Sans', sans-serif;
@@ -108,13 +108,13 @@ html {
   left: -10px;
   width: 99vw;
   height: 100vh;
-  background: #ececec;
+  background: white;
 }
 
 .mid-text{
   box-sizing: border-box;
   width: 70vw;
-  font-size: 40px;
+  font-size: 3vw;
   text-align: justify;
   text-decoration: none;
   font-family: 'DM Sans', sans-serif;
@@ -126,7 +126,7 @@ html {
 }
 
 .stock2{
-  max-width: 99vw;
+  width: 99vw;
   margin-left: -10px;
   position: relative;
   top: -100vh;
@@ -134,14 +134,14 @@ html {
 
 .NP{
   box-sizing: border-box;
-  width: 100px;
-  font-size: 40px;
+  width: 2vw;
+  font-size: 3vw;
   font-weight: bold;
   text-align: justify;
   text-decoration: none;
   font-family: 'DM Sans', sans-serif;
   color: black;
-  margin-left: 100px;
+  margin-left: 8vw;
   position: relative;
   top: -131vh;
   color: white;
