@@ -1,2 +1,2 @@
 # Parangon-Webiste
-Open index.html and enjoy!!
+Open index.html
